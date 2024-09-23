@@ -1,7 +1,7 @@
+#!/usr/bin/python3
 """
 Function called filter_datum to return the log message
 """
-#!/usr/bin/python3
 import re
 
 
